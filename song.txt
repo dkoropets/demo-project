@@ -3,3 +3,5 @@ First half the text of my favorite song
 Second half of the lyrics
 
 This file was modified in the feature branche
+
+This file was modified the second time in the feature branch
